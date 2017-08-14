@@ -11,7 +11,7 @@ The return on investment (ROI) is also fixed, e.g. 10% of invested amount.
 
 The probability of winning and losing is equal in each round, i.e. 50%.
 
-## Goal (Problem) of the Game:
+## Goal of the Game:
 
 Assuming that you could play as many rounds of this game as you want and that 
 the ROI equals 0.1, choose an (optimal) amount that you invest in per each round 
